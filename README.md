@@ -44,6 +44,9 @@ Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e
 - [E-BOOK](/exemplos/E-BOOK.md)
 [LINK E-BOOK DESCOBRINDO O TESOURO DIRETO](main/exemplos/descobrindo_o_tesouro_direto.pdf)
 
+[Veja o documento PDF](https://github.com/valdineibucmaier/lab-natty-or-not/blob/main/exemplos/documento.pdf)
+
+
 
 ## 💭 Reflexão (Opcional)
 Com a importância de prompts específicos e revisão do conteúdo para sugestões de alteração ou adição de ideias, permitem alcançar resultados incríveis em um curto espaço de tempo.
