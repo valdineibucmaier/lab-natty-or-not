@@ -49,6 +49,7 @@ Com a importância de prompts específicos e revisão do conteúdo para sugestõ
 
 ### Exemplos e Insigths
 
+- [E-BOOK](/exemplos/descobrindo_o_tesouro_direto.pdf)
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
