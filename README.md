@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## Entrega do projeto do desafio:
 
-# Descobrindo o Tesouro Direto
+# Descobrindo o Tesouro Direto!
 
 ## 📒 Descrição
 Ebook infantil apresentando às crianças o Tesouro Direto, seus principais títulos e conceitos de investimentos.
