@@ -38,7 +38,7 @@ Com as novas alterações realizei a revisão do novo conteúdo e sugeri a cria�
 ## 🚀 Resultados
 
 Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos:
-[esse link funciona aqui](https://github.com/valdineibucmaier/lab-natty-or-not/blob/main/exemplos/descobrindo_o_tesouro_direto.pdf)
+[esse link também não funcionou aqui](https://github.com/valdineibucmaier/lab-natty-or-not/blob/main/exemplos/descobrindo_o_tesouro_direto.pdf)
 
 
 - [esse link não funciona aqui](exemplos/descobrindo_o_tesouro_direto.pdf)
@@ -49,6 +49,8 @@ Com a importância de prompts específicos e revisão do conteúdo para sugestõ
 ```
 
 ## Exemplos e Insigths
+
+[esse link funcionou aqui](https://github.com/valdineibucmaier/lab-natty-or-not/blob/main/exemplos/descobrindo_o_tesouro_direto.pdf)
  [esse link funciona aqui](exemplos/descobrindo_o_tesouro_direto.pdf)
 
 - [E-BOOK](/exemplos/descobrindo_o_tesouro_direto.pdf)
