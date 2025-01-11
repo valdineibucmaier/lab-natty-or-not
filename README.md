@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Descobrindo o Tesouro Direto ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook infantil apresentando às crianças o Tesouro Direto, seus principais títulos e conceitos de investimentos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi inicialmente ao chat GPT para criar um ebook através do seguinte prompt:
+"Gostaria de criar um ebook de aproximadamente 5 páginas, o assunto seria tesouro direto explicando o que é o Tesouro direto e seus principais títulos, esse ebook deve ser apresentado por personagens, com uma linguagem e explicações que uma criança de 10 anos de idade consiga compreender e se divertir com a leitura."
+Após o conteúdo inicial criado fui realizando a leitura e sugerindo alterações como a inclusão de exemplos e explicação de conceitos do mundo dos investimentos, como inflação, juros e SELIC.
+Com as novas alterações realizei a revisão do novo conteúdo e sugeri a criação de uma capa constando os personagens e um baú de tesouro.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com a importância de prompts específicos e revisão do conteúdo para sugestões de alteração ou adição de ideias, permitem alcançar resultados incríveis em um curto espaço de tempo.
 ```
 
 ### Exemplos e Insigths
