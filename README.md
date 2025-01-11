@@ -39,12 +39,7 @@ Com as novas alterações realizei a revisão do novo conteúdo e sugeri a cria�
 
 Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos:
 
-- [Veja o documento PDF](/exemplos/descobrindo_o_tesouro_direto.pdf)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-[LINK E-BOOK DESCOBRINDO O TESOURO DIRETO](main/exemplos/descobrindo_o_tesouro_direto.pdf)
-
-[Veja o documento PDF](https://github.com/valdineibucmaier/lab-natty-or-not/blob/main/exemplos/documento.pdf)
 
 
 
