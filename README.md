@@ -37,7 +37,8 @@ Com as novas alterações realizei a revisão do novo conteúdo e sugeri a cria�
 
 ## 🚀 Resultados
 
-Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos.
+Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos:
+- [E-BOOK DESCOBRINDO O TESOURO DIRETO](/exemplos/descobrindo_o_tesouro_direto.pdf)
 
 ## 💭 Reflexão (Opcional)
 Com a importância de prompts específicos e revisão do conteúdo para sugestões de alteração ou adição de ideias, permitem alcançar resultados incríveis em um curto espaço de tempo.
