@@ -47,7 +47,7 @@ Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e
 Com a importância de prompts específicos e revisão do conteúdo para sugestões de alteração ou adição de ideias, permitem alcançar resultados incríveis em um curto espaço de tempo.
 ```
 
-### Exemplos e Insigths
+## Exemplos e Insigths
 
 - [E-BOOK](/exemplos/descobrindo_o_tesouro_direto.pdf)
 - [E-BOOK](/exemplos/E-BOOK.md)
