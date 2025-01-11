@@ -44,8 +44,8 @@ Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e
 - [LINK E-BOOK DESCOBRINDO O TESOURO DIRETO!](exemplos/descobrindo_o_tesouro_direto.pdf)
 
 
-## 💭 Reflexão (Opcional)
-Com a importância de prompts específicos e revisão do conteúdo para sugestões de alteração ou adição de ideias, permitem alcançar resultados incríveis em um curto espaço de tempo.
+## 💭 Reflexão
+Utilizando prompts específicos, revisando o conteúdo, realizando sugestões, alterações, e adições de ideias, com IA Generativa é possível alcançar resultados incríveis em um curto espaço de tempo.
 ```
 
 
