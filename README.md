@@ -40,7 +40,7 @@ Com as novas alterações realizei a revisão do novo conteúdo e sugeri a cria�
 Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos:
 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [esse link não funciona](exemplos/descobrindo_o_tesouro_direto.pdf)
 
 
 ## 💭 Reflexão (Opcional)
