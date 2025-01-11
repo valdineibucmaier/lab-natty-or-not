@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Descobrindo o Tesouro Direto ;)
+# Descobrindo o Tesouro Direto
 
 ## 📒 Descrição
 Ebook infantil apresentando às crianças o Tesouro Direto, seus principais títulos e conceitos de investimentos.
@@ -38,6 +38,9 @@ Com as novas alterações realizei a revisão do novo conteúdo e sugeri a cria�
 ## 🚀 Resultados
 
 Ebook infantil de rápida leitura e fácil compreensão sobre o Tesouro Direto e seus principais títulos:
+
+- [Veja o documento PDF](exemplos/descobrindo_o_tesouro_direto.pdf)
+
 [LINK E-BOOK DESCOBRINDO O TESOURO DIRETO](main/exemplos/descobrindo_o_tesouro_direto.pdf)
 
 
